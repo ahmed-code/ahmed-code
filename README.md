@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/ahmeed_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmeed_dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmed-alwafi-9b990021a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-alwafi-9b990021a" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uclbtiujc-ltnchdxzlvwh3g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/RishavChanda" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uclbtiujc-ltnchdxzlvwh3g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="RishavChanda" height="30" width="40" /></a>
 <a href="https://discord.gg/أحمد#1582" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="أحمد#1582" height="30" width="40" /></a>
 </p>
 
