@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **flutter**
 
-- 📫 How to reach me **alwafi.connection@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmeed_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmeed_dev" height="30" width="40" /></a>
